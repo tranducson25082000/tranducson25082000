@@ -2,7 +2,7 @@
 
 <!--
 **tranducson25082000/tranducson25082000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Son's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranducson25082000&show_icons=true&theme=radical)
